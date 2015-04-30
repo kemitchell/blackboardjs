@@ -15,7 +15,7 @@
     "name": "Scott S. McCoy",
     "email": "tag@cpan.org"
   },
-  "license": "Artistic License",
+  "license": "Artistic-2.0",
   "devDependencies": {
     "jshint-junit-reporter": "",
     "grunt": "",
